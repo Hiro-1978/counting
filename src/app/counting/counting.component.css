@@ -1,0 +1,30 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    max-width: 15rem;
+    margin: 0 auto;
+    padding: 0 3rem;
+}
+
+.count{
+    align-items: center;
+    width: 10rem;
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    border-radius: .5rem;
+}
+
+.txt-count{
+    font-size: 3rem;
+    color: red;
+}
+.btn{
+    align-items: center;
+    color: blue;
+    width: 5rem;
+    border: 3px solid #f4f4f4;
+}
